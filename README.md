@@ -1,4 +1,4 @@
-# 🤖 Agentic AI Personal Assistant
+#  Agentic AI Personal Assistant
 
 **Capstone Project | Agentic AI Track**
 
@@ -6,26 +6,26 @@ A conversational AI agent powered by **Google Gemini** that can understand conte
 
 ---
 
-## 📌 Problem Statement
+##  Problem Statement
 
 People often need a smart assistant that can do more than just answer questions — they need something that can plan tasks, perform calculations, recall conversation context, and act like a real agent. Standard chatbots lack this agentic capability.
 
-## ✅ Features
+##  Features
 
 | Feature | Description |
 |--------|-------------|
-| 💬 Multi-turn Conversation | Remembers full chat history in a session |
-| 🔧 Tool Use | Auto-detects when to use tools (search, calculate, time) |
-| 📋 Task Planner | Breaks complex tasks into actionable steps |
-| 🧮 Calculator | Evaluates math expressions safely |
-| 🕐 Time Awareness | Fetches current date and time |
-| 🔍 Web Search | Integrates with search tools (configurable) |
-| 💾 Conversation Save | Exports full chat log to a text file |
-| 🔄 Session Reset | Clear history and start fresh anytime |
+|  Multi-turn Conversation | Remembers full chat history in a session |
+|  Tool Use | Auto-detects when to use tools (search, calculate, time) |
+|  Task Planner | Breaks complex tasks into actionable steps |
+|  Calculator | Evaluates math expressions safely |
+|  Time Awareness | Fetches current date and time |
+|  Web Search | Integrates with search tools (configurable) |
+|  Conversation Save | Exports full chat log to a text file |
+|  Session Reset | Clear history and start fresh anytime |
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Language**: Python 3.10+
 - **AI Model**: Google Gemini 1.5 Flash (via `google-generativeai`)
@@ -34,7 +34,7 @@ People often need a smart assistant that can do more than just answer questions 
 
 ---
 
-## 🚀 Setup & Run
+##  Setup & Run
 
 ### 1. Clone the repository
 ```bash
@@ -68,25 +68,25 @@ python agent.py
 
 ---
 
-## 💡 Example Usage
+##  Example Usage
 
 ```
 You: What time is it?
-🤖 Assistant: [Uses get_current_time tool] It's Friday, April 17, 2026 at 10:30 AM.
+ Assistant: [Uses get_current_time tool] It's Friday, April 17, 2026 at 10:30 AM.
 
 You: Plan a project for me to build a todo app
-🤖 Assistant: Here's a step-by-step plan:
-  ✅ Step 1: Define requirements...
-  ✅ Step 2: Design the UI...
+ Assistant: Here's a step-by-step plan:
+   Step 1: Define requirements...
+   Step 2: Design the UI...
   ...
 
 You: Calculate 15% of 4500
-🤖 Assistant: [Uses calculate tool] 15% of 4500 = 675.0
+ Assistant: [Uses calculate tool] 15% of 4500 = 675.0
 ```
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 agentic-ai-assistant/
@@ -100,7 +100,7 @@ agentic-ai-assistant/
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 - Integrate real-time web search (Serper, Tavily API)
 - Add a web-based UI using Streamlit or Flask
@@ -110,14 +110,14 @@ agentic-ai-assistant/
 
 ---
 
-## 👤 Author
+##  Author
 
-- **Name**: [Your Name]
-- **Roll Number**: [Your Roll Number]
-- **Batch/Program**: Agentic AI | KIIT
+- **Name**: Shashwat Singh
+- **Roll Number**: 23051053
+- **Batch/Program**: 2023-27 | BTech CSE
 
 ---
 
-## 📄 License
+##  License
 
 This project is submitted as part of the Capstone Project requirement.
